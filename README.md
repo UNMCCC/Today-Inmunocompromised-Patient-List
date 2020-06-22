@@ -24,4 +24,5 @@ immunocompromised patients from the system for today. We automate the extract to
 run 10 times a day, every hour, during most active hours.
 
 We stage the extracted data for the Tableau visualization software, which
-renders an easy to read list and distributes it to the subscribers.
+renders an easy to read list and distributes it to the subscribers. We included
+here a sanitized (modified to remove data) version of the tableau workbook used.
